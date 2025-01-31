@@ -5,7 +5,3 @@ Course Website: https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis
 I will complete this course in the spring semester.
 
 Starting Date: 2025.01.31
-
-Lists:
-
-- [] Lecture 1
