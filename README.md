@@ -8,4 +8,9 @@ Starting Date: 2025.01.31
 
 Lists:
 
-- [ ] Lecture 1 Probability models and axioms
+- [x] Lecture 1 Probability models and axioms
+
+- [ ] Lecture 2 Conditioning and Bayes' rule
+- [ ] Lecture 3 Independence
+- [ ] Lecture 4 Counting
+- [ ] Discrete random variables; probability mass functions; expectations
